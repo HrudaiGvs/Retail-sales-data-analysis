@@ -168,3 +168,8 @@ order by 2 desc;
 ## Conclusion
 
 Working on this retail sales data analysis project helped me understand how data can tell real stories behind business performance. Using SQL, I explored patterns in sales, identified which products were doing well, and saw when customers were most active. It was interesting to see how even small trends in the data could lead to smarter decisions—like when to restock or which products to promote. Overall, this project gave me hands-on experience in using data to support better business planning and decision-making.
+
+# Author
+### Hrudai
+BBA Graduate | Aspiring Data Analyst
+SQL | Excel | Business Analysis
